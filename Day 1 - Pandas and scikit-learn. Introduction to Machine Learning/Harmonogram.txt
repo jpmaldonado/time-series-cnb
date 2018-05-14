@@ -1,0 +1,6 @@
+Program:
+
+- Introduction to pandas + exercise (90 min). Notebook 01.
+- Machine Learning overview/presentation. Presentation and Notebook 02. 90 min
+- Model Selection, Presentation (part 2) Notebooks 03a, 03b. 90 min
+- Exercise: Create a model for the loans data set
