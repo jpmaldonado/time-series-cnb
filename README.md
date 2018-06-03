@@ -1,2 +1,7 @@
-# time-series-cnb
-Machine Learning for Time Series Analysis - Tutorial for Czech National Bank
+# Machine Learning for Time Series Analysis
+
+Tutorial materials
+
+- Introduction to Machine Learning in Python
+- Time Series Classification and Clustering
+- Advanced Algorithms (Neural Networks and Deep Learning)
