@@ -124,4 +124,11 @@ plt.plot(idx,idx)
 plt.xlabel("True value")
 plt.ylabel("Predicted value")
 
+# Feature importance
+coefs = clf.coef_
+n_coefs = len(coefs)
+pos = range(n_coefs)
+names = ['att_'+str(i) for i in range(n_coefs)]
+plt.barh(pos,coefs)
+plt.yticks(pos,names)
 
