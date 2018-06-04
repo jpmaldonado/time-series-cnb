@@ -128,7 +128,7 @@ plt.ylabel("Predicted value")
 coefs = clf.coef_
 n_coefs = len(coefs)
 pos = range(n_coefs)
-names = ['att_'+str(i) for i in range(n_coefs)]
+names = ['att_'+str(i+1) for i in range(n_coefs)]
 plt.barh(pos,coefs)
 plt.yticks(pos,names)
 
